@@ -175,9 +175,12 @@ cython_debug/
 bin/
 etc/
 include/
-lib/
 share/
 pyvenv.cfg
 
 #PyCharm IDE
 .idea/
+
+#Data Files
+data/raw/
+data/preprocessed
