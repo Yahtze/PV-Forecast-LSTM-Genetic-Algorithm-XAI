@@ -26,6 +26,7 @@ exceptiongroup==1.2.2
 fastjsonschema==2.21.1
 fonttools==4.38.0
 fqdn==1.5.1
+fsspec==2023.1.0
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.62.3
@@ -92,6 +93,7 @@ PyJWT==2.8.0
 pyparsing==3.1.4
 pyrsistent==0.19.3
 python-dateutil==2.9.0.post0
+python-dotenv==0.21.1
 python-json-logger==3.0.1
 pytz==2024.2
 PyYAML==6.0.1
