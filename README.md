@@ -49,13 +49,13 @@ The objective of this project is to forecast Global Horizontal Irradiance (GHI) 
 
 Create a virtual environment and install required packages:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. (Optional) Fetch data from NSRDB
 
 Run the script to collect GHI data using the NSRDB API:
 
-python src/data/nsrdb_api_fetcher.py
+    python src/data/nsrdb_api_fetcher.py
 
 4. Explore the notebooks
 
